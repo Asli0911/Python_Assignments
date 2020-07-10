@@ -8,7 +8,9 @@ while i**2<=number:
         divide.append(i)
     i+=1
 
-if len(divide)>=1:
+if number==1:
+    print(number, "is not a prime number.")
+elif len(divide)>=1:
     print(number, "is not a prime number.")
 else:
     print(number, "is a prime number.")
