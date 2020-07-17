@@ -9,4 +9,4 @@ def fizzbuzz(lst):
         else:
             print(i)
         
-print (fizzbuzz(range(1,101)))
+fizzbuzz(range(1,101))
