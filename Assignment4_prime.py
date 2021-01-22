@@ -1,5 +1,4 @@
 number=int(input("Please enter a number:"))
-
 i=1
 divide=[]
 
