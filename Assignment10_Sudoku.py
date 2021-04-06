@@ -22,6 +22,4 @@ for i in sudoku:
     print(*result)
     result = ""
     
-print(11 * "- ")
-
-  
+print(11 * "- ")  
